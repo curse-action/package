@@ -1,0 +1,9 @@
+name: Package Addon
+description: package addon
+author: Dencer
+runs:
+  using: node20
+  main: index.js
+branding:
+  color: purple
+  icon: ci
